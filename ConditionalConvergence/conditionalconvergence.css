@@ -20,4 +20,6 @@ h1, p {
   font-size: 12pt;
   color: #0000FF;
   background-color: #FFFFFF;
+  height: 200px;
+  overflow-y: auto;
 }
